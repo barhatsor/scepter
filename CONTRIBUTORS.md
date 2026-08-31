@@ -1,3 +1,3 @@
 # Contributors of Scepter
 
-- [Ben Hatsor](https://github.com/benhatsor)
+- [Bar Hatsor](https://github.com/barhatsor)
