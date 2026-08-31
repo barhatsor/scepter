@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a target='_blank' href='https://github.com/benhatsor/scepter/releases'/><img src='https://img.shields.io/github/v/release/benhatsor/scepter' alt='Latest version'/></a>
+  <a target='_blank' href='https://github.com/barhatsor/scepter/releases'/><img src='https://img.shields.io/github/v/release/barhatsor/scepter' alt='Latest version'/></a>
 </p>
 
 ## Usage
@@ -20,7 +20,7 @@
 
 ## Changelog
 
-[Releases](https://github.com/benhatsor/scepter/releases)
+[Releases](https://github.com/barhatsor/scepter/releases)
 
 ## License
 
