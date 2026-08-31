@@ -8,7 +8,7 @@
 <p align="center">
   <a target='_blank' href='https://scepter.berryscript.com'><img src='https://img.shields.io/badge/Try-it%20now-brightgreen' alt='Try it now'/></a>
   <a target='_blank' href='https://github.com/barhatsor/scepter/releases'/><img src='https://img.shields.io/github/v/release/barhatsor/scepter' alt='Latest version'/></a>
-  <a target='_blank' href='https://app.netlify.com/sites/scepter/deploys'><img src='https://api.netlify.com/api/v1/badges/cf90a1a9-767e-440f-974a-6ac36e37da12/deploy-status' alt='Netlify status'/></a>
+  <a target='_blank' href='https://github.com/barhatsor/scepter/deployments/Production'><img src='https://img.shields.io/github/deployments/barhatsor/scepter/Production?logo=vercel&label=vercel' alt='Vercel status'/></a>
 </p>
 
 ### See the contents of any site
